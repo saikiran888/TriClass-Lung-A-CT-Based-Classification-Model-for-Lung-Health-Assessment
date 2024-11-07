@@ -45,11 +45,11 @@ To run this project, follow these steps:
    cd lung-cancer-classification
    
 
-**Install the required packages**:
-```bash
-    pip install -r requirements.txt
-```
-**Streamlit App**
-```bash
-    streamlit run app.py
-```
+  **Install the required packages**:
+  ```bash
+      pip install -r requirements.txt
+  ```
+  **Streamlit App**
+  ```bash
+      streamlit run app.py
+  ```
