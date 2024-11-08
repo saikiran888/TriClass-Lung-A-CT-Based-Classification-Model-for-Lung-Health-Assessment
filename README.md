@@ -1,4 +1,4 @@
-# AI-Driven Classification of Lung Cancer Stages in CT Imaging
+# TriClass-Lung-A-CT-Based-Classification-Model-for-Lung-Health-Assessment
 
 ## Project Overview
 This project leverages deep learning techniques to classify lung cancer stages from CT scan images. Using the **IQ-OTH/NCCD Lung Cancer Dataset**, the model distinguishes between **normal, benign, and malignant** cases. The goal of this project is to aid in early diagnosis and improve clinical decision-making in lung cancer treatment.
